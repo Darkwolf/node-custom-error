@@ -1,0 +1,2 @@
+# node-custom-error
+ CustomError
