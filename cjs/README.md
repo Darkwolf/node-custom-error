@@ -8,9 +8,10 @@
 ```javascript
 // ECMAScript
 import CustomError from '@darkwolf/custom-error.mjs'
-
 // CommonJS
 const CustomError = require('@darkwolf/custom-error.cjs')
+
+new CustomError('Invalid value.', 'invalid-value')
 ```
 ## [API Documentation](https://github.com/Darkwolf/node-custom-error/blob/master/docs/API.md)
 ## Contact Me

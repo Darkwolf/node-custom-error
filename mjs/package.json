@@ -1,0 +1,35 @@
+{
+  "name": "@darkwolf/custom-error.mjs",
+  "version": "1.0.0",
+  "description": "CustomError",
+  "type": "module",
+  "exports": {
+    ".": "./lib/index.mjs",
+    "./": "./lib/",
+    "./package.json": "./package.json"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkwolf/node-custom-error.git"
+  },
+  "keywords": [
+    "darkwolf",
+    "dw",
+    "custom",
+    "error",
+    "mjs",
+    "builder"
+  ],
+  "author": "Pavel Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darkwolf/node-custom-error/issues"
+  },
+  "homepage": "https://github.com/Darkwolf/node-custom-error#readme"
+}
