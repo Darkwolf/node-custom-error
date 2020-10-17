@@ -6,7 +6,7 @@
 * extends: <[Error][Error]>
 
 #### `static` CustomError.name
-* returns: <[string][string]> Defaults to `CustomError`.
+* returns: <[string][string]> Defaults to `'CustomError'`.
 
 #### `init` new CustomError(message[, code])
 * `message` <[string][string]> Error message. E.g., `'Invalid value: '<value>'.'`.
